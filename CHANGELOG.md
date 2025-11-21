@@ -27,3 +27,23 @@ Designed a proof of concept for `CoasterQueue` component
 - Kernel Interface Branch
 - coasterQueueKernel Interface
 - coasterQueue Interface
+
+## 2025.11.7
+
+### Added
+
+- Abstract class branch
+- coasterQueueSecondary
+
+## 2025.11.21
+
+### Reworked
+
+- CoasterQueueKernel
+- CoasterQueueSecondary
+- CoasterQueue
+
+### Added
+
+- Kernel-implementation branch
+- CoasterQueue1L
