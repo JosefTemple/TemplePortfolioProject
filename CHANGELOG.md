@@ -47,3 +47,11 @@ Designed a proof of concept for `CoasterQueue` component
 
 - Kernel-implementation branch
 - CoasterQueue1L
+
+## 2025.12.10
+
+### Added
+
+- CoasterQueue1LTest.java and CoasterQueueSecondaryTest.java test files
+- AmusementParkRide.java actual application
+- QueueSimulation.java actual application

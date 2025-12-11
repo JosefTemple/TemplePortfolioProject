@@ -1,3 +1,5 @@
+package components;
+
 /**
  * Enhanced interface for a roller coaster queue.
  *
